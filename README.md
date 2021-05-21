@@ -1,4 +1,7 @@
 # Football-Match-Outcome-Prediction
+
+![53-532108_football-wallpapers-4k-desktop-background-animated-desktop-football](https://user-images.githubusercontent.com/60071360/119146453-752c3d80-ba6c-11eb-97ff-6f70572bb89d.jpg)
+
 This repository is about the "Football Match Outcome Prediction". Here, I have used a football dataset named "LaLiga" and predicted different outcomes. For training the model, I have simply use the ANN model. The dataset has been provided in "Dataset" folder.
 
 Initially the dataset has 10 features/column and 9662 rows. The detailed view of the dataset is given below- 
